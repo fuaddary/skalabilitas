@@ -3,8 +3,8 @@
 Selamat datang di kelas Skalabilitas Dan Reliabilitas Sistem
 
 ## Materi Hands On 
-1. Materi 1 : [Load Balancing](/load-balancing)
-2. Materi 2 : [Docker](/docker)
+1. Materi 1 : [Scaling](/load-balancing)
+2. Materi 2 : [Containerization](/docker)
 
 ## VM List
 
