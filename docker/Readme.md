@@ -244,8 +244,8 @@ Docker Compose adalah file untuk menjalankan container lebih dari satu.
                     WORDPRESS_DB_HOST: db:3306
                     WORDPRESS_DB_USER: wordpress
                     WORDPRESS_DB_PASSWORD: wordpress
-            volumes:
-                dbdata:
+        volumes:
+            dbdata:
 
     Keterangan: 
 
