@@ -60,6 +60,9 @@ Keterangan : Lakukan instalasi sampai [Continue to Post-installation steps for L
 - Instalasi pada [Ubuntu](https://docs.docker.com/compose/install/#linux)
 
 
+### 3. Konfigurasi Proxy Docker Daemon
+- Apabila perlu menggunakan proxy, maka perlu melakukan konfigurasi pada docker daemon : [Proxy Configuration](https://docs.docker.com/config/daemon/systemd/)
+
 ### C. Getting Started
 #### C.1 Docker Hello World
 Untuk mengecek apakah docker sudah terinstall dengan benar silahkan jalankan perintah
