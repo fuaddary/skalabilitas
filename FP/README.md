@@ -22,7 +22,7 @@
 
 Pada pertemuan sebelumnya kalian telah mempelajari tools untuk containerization dan orchestration serta sistem untuk memonitor nya. Contoh implementasinya menggunakan Kubernetes dan Docker untuk mendeploy sebuah aplikasi Sentiment Analysis berbasis microservice. 
 
-Namun saat implementasi di kelas kalian masih menggunakan 1 node sebagai hostnya. dan menggunakan minikube sebagai Tools untuk mempelajari kubernetes. Pada final project ini kalian diminta membuat sistem yang lebih scalable menggunakan banyak nodes. untuk dapat menggunakan multi nodes, kalian dapat menggunakan implementasi selain minikube misal microK8s, k3s, k0s dll. Sebagai perbandingan sederhana dapat dilihat pada tabel berikut
+Namun saat implementasi di kelas kalian masih menggunakan 1 node sebagai hostnya. dan menggunakan minikube sebagai Tools untuk mempelajari kubernetes. Pada final project ini kalian diminta membuat sistem yang [sama](https://github.com/rinormaloku/k8s-mastery) namun lebih scalable menggunakan banyak nodes. untuk dapat menggunakan multi nodes, kalian dapat menggunakan implementasi selain minikube misal microK8s, k3s, k0s dll. Sebagai perbandingan sederhana dapat dilihat pada tabel berikut
 
 ![](comparison.png)
 
