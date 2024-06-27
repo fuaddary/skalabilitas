@@ -5,6 +5,7 @@ Selamat datang di kelas Skalabilitas Dan Reliabilitas Sistem
 ## Materi Hands On 
 1. Materi 1 : [Scaling](/load-balancing)
 2. Materi 2 : [Containerization](/docker)
+3. Materi 3 : [Orchestration](/kubernetes)
 
 ## VM List
 
@@ -23,3 +24,6 @@ Selamat datang di kelas Skalabilitas Dan Reliabilitas Sistem
 | Skalabilitas-11 | 10.15.40.65 | Fairuz |
 | Skalabilitas-12 | 10.15.40.66 | Sedtia |
 | Skalabilitas-13 | 10.15.40.67 | andreas |
+
+
+[FINAL PROJECT ](/FP)
