@@ -15,7 +15,8 @@
 1. FP dikerjakan secara berkelompok dengan anggota minimal 3 orang dan maksimal 4 orang
 2. Waktu pengerjaan hingga tanggal 6 Juli 2024 (Tentatif menyesuaikan situasi dan kondisi)
 3. FP dikerjakan dengan menggunakan VM yang sudah disediakan
-4. Laporan FP dikerjakan dalam bentuk github markdown
+4. Jumlah nodes yang digunakan adalah sejumlah anggota kelompok
+5. Laporan FP dikerjakan dalam bentuk github markdown
 
 ## Soal Final Project
 
